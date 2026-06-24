@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Initial commit - AI Interview Coach"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR_USERNAME/AI-Interview-Coach.git
+
+git push -u origin main
